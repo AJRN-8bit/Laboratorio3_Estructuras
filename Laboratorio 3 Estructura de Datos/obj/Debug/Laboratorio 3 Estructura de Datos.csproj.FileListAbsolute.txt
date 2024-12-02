@@ -1,0 +1,7 @@
+C:\Users\Azai J.RN\source\repos\Laboratorio 3 Estructura de Datos\Laboratorio 3 Estructura de Datos\bin\Debug\Laboratorio 3 Estructura de Datos.exe.config
+C:\Users\Azai J.RN\source\repos\Laboratorio 3 Estructura de Datos\Laboratorio 3 Estructura de Datos\bin\Debug\Laboratorio 3 Estructura de Datos.exe
+C:\Users\Azai J.RN\source\repos\Laboratorio 3 Estructura de Datos\Laboratorio 3 Estructura de Datos\bin\Debug\Laboratorio 3 Estructura de Datos.pdb
+C:\Users\Azai J.RN\source\repos\Laboratorio 3 Estructura de Datos\Laboratorio 3 Estructura de Datos\obj\Debug\Laboratorio 3 Estructura de Datos.csproj.AssemblyReference.cache
+C:\Users\Azai J.RN\source\repos\Laboratorio 3 Estructura de Datos\Laboratorio 3 Estructura de Datos\obj\Debug\Laboratorio 3 Estructura de Datos.csproj.CoreCompileInputs.cache
+C:\Users\Azai J.RN\source\repos\Laboratorio 3 Estructura de Datos\Laboratorio 3 Estructura de Datos\obj\Debug\Laboratorio 3 Estructura de Datos.exe
+C:\Users\Azai J.RN\source\repos\Laboratorio 3 Estructura de Datos\Laboratorio 3 Estructura de Datos\obj\Debug\Laboratorio 3 Estructura de Datos.pdb
